@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning python, 3d modeling, arduino connected stuff
 - 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me :> idk
+- 📫 How to reach me dm me on github and if theres no such an option then idk
 
 <!---
 jakuuuuubek/jakuuuuubek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
